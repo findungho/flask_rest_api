@@ -43,7 +43,7 @@ def get_restaurant(food_name, lat, lon, restaurants):
 	#Create empty list to store the restaurants after search
 	list_restaurants = []
 	for restaurant in restaurants:
-		if food_name in restaurant['tags'] :
+		if food_name in restaurant['name'] or food_name in restaurant['description'] or food_name in restaurant['tags']:
 			distance = haversine([lat, lon], restaurant['location'][::-1])
 			#If the restaurant closer than 3km from the customer's location then add to the list
 			if distance <= 3:

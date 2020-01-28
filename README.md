@@ -80,4 +80,6 @@ Or download zip file.
 2. Extract zip file. 
 3. Open Termianl (MacOS & Linux) or CMD (Windows) and navigate to "wolt_summer2020" folder
 4. Run with command "python3 wolt_app.py"
+5. Navigate to address: http://127.0.0.1:5000 or http://localhost:5000 and start use.
+
 
