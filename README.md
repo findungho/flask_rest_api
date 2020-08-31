@@ -62,7 +62,7 @@ This search would return restaurants (in JSON format) which contain a word _sush
 
 Requirements: Python3, Flask
 
-1. Clone at https://github.com/findungho/wolt_summer2020.git
+1. Clone at https://github.com/findungho/flask_rest_api.git
 Or download zip file.
 2. Extract zip file. 
 3. Open Termianl (MacOS & Linux) or CMD (Windows) and navigate to "flask_rest_api" folder
