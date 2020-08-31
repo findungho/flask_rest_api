@@ -74,7 +74,7 @@ def page_not_found(e):
 @app.route('/')
 @app.route('/index')
 def index():
-	return """<h1> WOLT SUMMER INTERNSHIP 2020</h1>
+	return """<h1> SIMPLE REST API BY USING FLASK</h1>
 		           <p> Search Restaurant base on the food types and the customer's location. </p>"""
 
 
