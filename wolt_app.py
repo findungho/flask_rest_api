@@ -1,5 +1,3 @@
-# Backend Summer 2020 Engineering Internship
-# Option 2
 # Create a REST API endpoint that allows searching restaurants. 
 # The API endpoint need 3 parameters: query string (_q_), latitude of customer's location (_lat_) and longtitue of customer's location (_lon_).
 # Author : Dung Ho
