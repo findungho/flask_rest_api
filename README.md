@@ -66,7 +66,7 @@ Requirements: Python3, Flask
 Or download zip file.
 2. Extract zip file. 
 3. Open Termianl (MacOS & Linux) or CMD (Windows) and navigate to "flask_rest_api" folder
-4. Run with command "python3 wolt_app.py"
+4. Run with command "python3 flask_rest_api.py"
 5. Navigate to address: http://127.0.0.1:5000 or http://localhost:5000 and start use.
 
 
